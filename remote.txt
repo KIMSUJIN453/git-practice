@@ -1,2 +1,6 @@
 git clone <url>
 저장소를 복제해준다.
+
+git pull <name> <branch>
+git pull origin master
+원격 저장소에 있는 내용을 가져온다.
